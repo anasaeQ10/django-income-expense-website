@@ -5,8 +5,11 @@ ExpensesWebsite est une application web conçue pour gérer les dépenses person
 
 ## Fonctionnalités
 Ajout de dépenses : Les utilisateurs peuvent saisir des dépenses avec des détails comme le montant, la catégorie, la date, etc.
+
 Suivi des dépenses : L'application affiche un résumé des dépenses sous forme de graphiques et de tableaux pour une meilleure gestion.
+
 Authentification : Permet aux utilisateurs de se connecter et de protéger leurs informations personnelles.
+
 Gestion des catégories : Les utilisateurs peuvent ajouter, modifier ou supprimer des catégories pour organiser les dépenses.
 
 

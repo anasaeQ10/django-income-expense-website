@@ -22,6 +22,13 @@ Gestion des catégories : Les utilisateurs peuvent ajouter, modifier ou supprime
 - **JavaScript** : Pour les fonctionnalités interactives (si applicable).
 - **Bootstrap** : Framework CSS pour la mise en page responsive (si applicable).
 
+## Languages
+
+![Python](https://img.shields.io/badge/Languages-Python-blue)
+![HTML](https://img.shields.io/badge/Languages-HTML-orange)
+![CSS](https://img.shields.io/badge/Languages-CSS-green)
+![JavaScript](https://img.shields.io/badge/Languages-JavaScript-yellow)
+
 
 
 ## Copier le code:

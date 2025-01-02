@@ -33,5 +33,8 @@ python3 manage.py runserver
 http://127.0.0.1:8000/.
 
 
+## Avertissement : 
+Cette application ne traite que les dépenses des **6 derniers mois**.
+Assurez-vous que vos entrées de dépenses se trouvent dans cette période pour garantir une gestion correcte.
 
 
